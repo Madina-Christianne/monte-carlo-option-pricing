@@ -1,4 +1,4 @@
-'''cpp
+```cpp
 # Monte Carlo Option Pricing
 
 This project implements a Monte Carlo simulation in C++ to estimate the price of options according to the Black-Scholes model.
